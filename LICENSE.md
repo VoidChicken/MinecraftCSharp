@@ -1,3 +1,9 @@
+License
+=======================
+
+The zlib/libpng license does not apply to Inspire Engine, which is proprietary code.
+
+
 The zlib/libpng License
 =======================
 
